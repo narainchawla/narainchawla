@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Narain Chawla 👋
 
 ## 🚀 About Me
 Software developer passionate about building web applications and cloud infrastructure. I love turning ideas into production-ready code.
